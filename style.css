@@ -234,6 +234,8 @@ section {
     font-size: 20px;
     cursor: pointer;
     transition: 0.3s;
+    text-decoration:none;
+   color: black;
 }
 
 .btn-container button:hover {
@@ -306,4 +308,5 @@ section {
         width: 90%;
     }
 }
+
 
